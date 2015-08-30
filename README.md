@@ -13,6 +13,10 @@ clone this repository
 Install and run!
 The Gemfile will take you the rest of the way.
 
+Here is the app deployed on Heroku:
+
+https://fathomless-springs-8992.herokuapp.com/
+
 Technologies Used
 
 Ruby, Bootstrap, Sinatra, Rspec, and Capybara.
